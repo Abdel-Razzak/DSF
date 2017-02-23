@@ -1,12 +1,21 @@
-# Data-Science-Fundamentals
-In this course, we'll get a comprehensive overview of data science, a growing field that combines coding, math, statistics, and often business acumen. The workshop will start by showing you the entire process for data science projects and the different roles and skills that are needed. Then the basics of obtaining data through a variety of sources are introduced to you, including web APIs and page scraping. 
+# Data Engineering: 
+During this session we hightlight the importance and role of data Engineering (Data Infrastructure or Data Architecture) process in data analysis. The data engineer gathers and collects the data, stores it, does batch processing or real-time processing on it, and serves it via an API to a data scientist who can easily query it.
 
-Through training workshop program, python programming language is introduced and used as the primary tool in handling, analyzing, visualizing and presenting data. Participants will get a full understanding of how to program with python and how to use it in conjunction with scientific computing modules and libraries to analyze data. 
+One important part of this session is data preprocessing where The quality of the data and the amount of useful information that it contains are key factors that determine how well a machine learning algorithm can learn. Therefore, it is absolutely critical that we make sure to examine and preprocess a dataset before we feed it to a learning algorithm. In this session, we will discuss the essential data preprocessing techniques that will help us to build good machine learning models.
 
-We'll also take a look at powerful techniques for analyzing data. We'll be covering techniques for planning, performing, and presenting your projects to help you get started in data science and making the most of the data that's all around you. And so let's get started with Introduction to Data Science.
+## Objectives: Data preprocessing
+During this session participants will be able to:
+  
+* understand importance role of data Engineering 
+* implement and apply several data aquistion  and preporcessing techniques using python
+* understand Data Preprocessing stages and its role in developing data process model
+* apply learned techniques to develop a data science model
 
-## Topics & Workshop sessions materials
-1. [Introduction to Data Science](https://github.com/Abdel-Razzak/DSF/tree/1-Introduction-to-Data-Science)
-2. [Getting started with Python](https://github.com/Abdel-Razzak/DSF/tree/2--getting-started-with-Python)
-3. [Exploratory data analysis EDA](https://github.com/Abdel-Razzak/DSF/tree/3-EDA)
-4. [Project 1- Weather Data](https://github.com/Abdel-Razzak/DSF/tree/Project-1--Weather-Data)
+## The topics that we will cover in this session are as follows:
+* Removing and imputing missing values from the dataset
+* Getting categorical data into shape for machine learning algorithms
+* Selecting relevant features for the model construction
+
+##session outline
+* [data collection exercises](https://github.com/Abdel-Razzak/DSF/tree/Data-Engineering/Lab%20and%20Exercises/data%20collection)
+* [data preprocessing](https://github.com/Abdel-Razzak/DSF/tree/Data-Engineering/Lab%20and%20Exercises/data%20preprocessing)
