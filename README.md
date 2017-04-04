@@ -9,6 +9,6 @@ We'll also take a look at powerful techniques for analyzing data. We'll be cover
 1. [Introduction to Data Science](https://github.com/Abdel-Razzak/DSF/tree/1-Introduction-to-Data-Science)
 2. [Getting started with Python](https://github.com/Abdel-Razzak/DSF/tree/2--getting-started-with-Python)
 3. [Exploratory data analysis EDA](https://github.com/Abdel-Razzak/DSF/tree/3-EDA)
-4. [Project 1- Weather Data](https://github.com/Abdel-Razzak/DSF/tree/Project-1--Weather-Data)
+4. [Project 1- Weather Data](https://github.com/Abdel-Razzak/DSF/tree/Weather-Data-Project)
 5. [Data Engineering](https://github.com/Abdel-Razzak/DSF/tree/Data-Engineering)
 6. [Machine Learning](https://github.com/Abdel-Razzak/DSF/tree/machine-learning)
