@@ -56,19 +56,22 @@ Upon completion of the subject, students will be able to:
   * Use statistical package and interpret the output, appreciate the applications of information technology for statistical analysis in business.
 
 ### Session Outline & References
-* #### [EDA Introduction]()
+* #### [EDA Introduction](https://github.com/Abdel-Razzak/DSF/blob/master/S3/Exploratory%20data%20analysis.ipynb)
  
-    * [chapter 4 EDA book](https://github.com/Abdel-Razzak/DSF/blob/528d99c3fcbcf815000b7bda01c83d61094fa44a/S3/Readings/chapter4-EDA.pdf)
+    * [chapter 4 EDA book](https://github.com/Abdel-Razzak/DSF/blob/master/S3/Readings/chapter4-EDA.pdf)
     
 * #### EDA Techniques and Data Visualization 
-    * [catagorical variable and Numerical variable,]() 
-    * [summative statiscis: Normal distributions, mean, variance]()
-    * [Association]() 
+    * [catagorical variable and Numerical variable,](https://github.com/Abdel-Razzak/DSF/blob/master/S3/Readings/working_with_data_1.pptx) 
+    * [summative statiscis: Normal distributions, mean, variance](https://github.com/Abdel-Razzak/DSF/blob/master/S3/Readings/working_with_data_2.pptx)
+    * [Association](https://github.com/Abdel-Razzak/DSF/blob/master/S3/Readings/working_with_data_3.pptx) 
 
-* ### [lab session on 2008 USA election project](https://github.com/Abdel-Razzak/DSF/blob/master/S3/session%20lab/swing_states%20lab.ipynb)
+* ### [2008 USA election project](https://github.com/Abdel-Razzak/DSF/blob/master/S3/session%20lab/swing_states%20lab.ipynb)
+* ### [Iris Project](https://github.com/Abdel-Razzak/DSF/blob/master/S3/Iris%20project/iris.ipynb)
+   * [iris data](https://github.com/Abdel-Razzak/DSF/blob/master/S3/iris-data.csv)
+* ### [Hypothesis Testing: T-test, Chi-squared test, Fisher test, etc…](https://github.com/Abdel-Razzak/DSF/blob/master/S3/Readings/Introduction%20to%20hypothisis%20testing.pdf) 
+ 
 
-* ### [Hypothesis Testing: T-test, Chi-squared test, Fisher test, etc…]() 
-* ### Data Scource: [Iris data]()
+  
 
 4. ## [Project 1- Weather Data]()
 
@@ -91,12 +94,12 @@ During this session participants will be able to:
   * Selecting relevant features for the model construction
 
 ### session outline
-  * [Introduction to Data Engineering]()
+  * [Introduction to Data Engineering](https://github.com/Abdel-Razzak/DSF/blob/master/S4/Data%20Engineering.ipynb)
   * data collection exercises
-    * [Json example]()
-    * [Excel example]()
-    * []()
-  * [data preprocessing]()
+    * [Json example](https://github.com/Abdel-Razzak/DSF/blob/master/S4/Lab%20and%20Exercises/data%20collection/json%20with%20python.ipynb)
+    * [Excel example](https://github.com/Abdel-Razzak/DSF/blob/master/S4/Lab%20and%20Exercises/data%20collection/Excel.ipynb)
+    * [HTML with Python example](https://github.com/Abdel-Razzak/DSF/blob/master/S4/Lab%20and%20Exercises/data%20collection/HTML%20with%20python.ipynb)
+  * [data preprocessing](https://github.com/Abdel-Razzak/DSF/tree/master/S4/Lab%20and%20Exercises/data%20preprocessing) 
 
 6. ## Machine Learning
 ### Introduction to Machine Learning
@@ -104,9 +107,9 @@ In this session we will be focusing on very practical hands on applications of m
 Install it using either pip install scikit-learn or conda install scikit-learn depending on your installation.
 You can treat each session almost like a micro-project. In each lecture we'll get a brief overview of the mathematics behind the model we'll work with and then dive into the code.
 ### Session Outline
-  * Readings [Introduction to machine learning]()
-  * Readings [Decision Trees]()
-  * Example [iris example]()
-  * Readings [ANN]()
-  * Linear Regresion: [LR]()
-  * K-means clustering method [KM]()
+  * Readings [Introduction to machine learning](https://github.com/Abdel-Razzak/DSF/blob/master/S5/Introduction%20to%20Machine%20Learning.ipynb)
+  * Readings [Decision Trees](https://github.com/Abdel-Razzak/DSF/blob/master/S5/Readings/DecisionTrees.pdf)
+  * Example [iris example](https://github.com/Abdel-Razzak/DSF/blob/master/S5/Decision_Trees_plot_iris1.ipynb)
+  * Readings [ANN](https://github.com/Abdel-Razzak/DSF/blob/master/S5/Readings/ANN.ppt)
+  * Linear Regresion: [LR](https://github.com/Abdel-Razzak/DSF/blob/master/S5/Supervised%20Learning%20-%20%20Linear%20Regression.ipynb)
+  * K-means clustering method [KM](https://github.com/Abdel-Razzak/DSF/blob/master/S5/K-means%20Clustering%20Algorithm.ipynb)
