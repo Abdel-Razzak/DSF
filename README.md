@@ -29,7 +29,7 @@ Data science has been described as intersection of programming, statistics and t
 #### Pre-request Readings [Introduction to Python](https://github.com/Abdel-Razzak/DSF/blob/master/S2/Python_Data_Science_Stack.pdf)
 
 #### Session Outline
-  * troduction to Python](https://github.com/Abdel-Razzak/DSF/blob/master/S2/Data%20Science_Getting%20started%20with%20programming.ipynb) 
+  * [introduction to Python](https://github.com/Abdel-Razzak/DSF/blob/master/S2/Data%20Science_Getting%20started%20with%20programming.ipynb) 
       * [setup and packages](https://docs.continuum.io/anaconda/install)
       * [Data Science Overview in iPython](https://github.com/Abdel-Razzak/DSF/blob/master/S2/intro.ipynb)
   * [Using Python lists](https://github.com/Abdel-Razzak/DSF/blob/master/S2/iPython%20notes/Python%20Data%20Containers_%20lists%20and%20slices.ipynb)
