@@ -1,4 +1,4 @@
-## 1. Introduction to Data Science
+## Introduction to Data Science
 ### Overview of Data Science 
 During this session you'll learn about Data Science, the goals and objectives of the Data Science Specialization and each of its components. You'll also get to know why data scientists are now in such demand, and the skills required to succeed in different jobs. Different business cases are presented during session implementation as case studies to view and discuss the data science economical potential.
 ### Key Issues
