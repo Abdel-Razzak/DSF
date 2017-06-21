@@ -24,9 +24,11 @@ During this session you'll learn about Data Science, the goals and objectives of
   * [Data Science Workflow](https://github.com/Abdel-Razzak/DSF/blob/master/S1/Data%20Science%20Workflow1.ipynb)
   * [Readings: Field Guide to Data Science](https://github.com/Abdel-Razzak/DSF/blob/master/S1/Material/2015-FIeld-Guide-To-Data-Science.pdf)
 ### References
-  * John Canny, (fall, 2014), Introduction to Data Science course, berkeley university, Retrieved from [data science course at berkeley](https://bcourses.berkeley.edu/courses/1267848)
-  * Charles Tappert, Data Analytics Lifecycle, Seidenberg School of CSIS, Pace University, Retrieved from [case study](http://www.csis.pace.edu/~ctappert/cs816-15fall/slides/datascience02.pptx)
-  * Booz, Allen, Hamilton, (2015), The Field Guide to Data Science, 2nd Edition, Retrieved from [The Field Guide to Data Science book](https://www.boozallen.com/content/dam/boozallen_site/sig/pdf/publications/2015-field-guide-to-data-science.pdf)
+* John Canny, (fall, 2014), Introduction to Data Science course, berkeley university, Retrieved from [data science course at berkeley](https://bcourses.berkeley.edu/courses/1267848)
+  
+*  Charles Tappert, Data Analytics Lifecycle, Seidenberg School of CSIS, Pace University, Retrieved from [case study](http://www.csis.pace.edu/~ctappert/cs816-15fall/slides/datascience02.pptx)
+  
+* Booz, Allen, Hamilton, (2015), The Field Guide to Data Science, 2nd Edition, Retrieved from [The Field Guide to Data Science book](https://www.boozallen.com/content/dam/boozallen_site/sig/pdf/publications/2015-field-guide-to-data-science.pdf)
 
 
 ## 2. Getting started with Python
