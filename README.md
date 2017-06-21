@@ -23,6 +23,11 @@ During this session you'll learn about Data Science, the goals and objectives of
   * [Overview of data science](https://github.com/Abdel-Razzak/DSF/blob/master/S1/Overview%20of%20Data%20Science.ipynb)
   * [Data Science Workflow](https://github.com/Abdel-Razzak/DSF/blob/master/S1/Data%20Science%20Workflow1.ipynb)
   * [Readings: Field Guide to Data Science](https://github.com/Abdel-Razzak/DSF/blob/master/S1/Material/2015-FIeld-Guide-To-Data-Science.pdf)
+### References
+  * John Canny, (fall, 2014), Introduction to Data Science course, berkeley university, Retrieved from [data science course at berkeley](https://bcourses.berkeley.edu/courses/1267848)
+  * Charles Tappert, Data Analytics Lifecycle, Seidenberg School of CSIS, Pace University, Retrieved from [case study](http://www.csis.pace.edu/~ctappert/cs816-15fall/slides/datascience02.pptx)
+  * Booz, Allen, Hamilton, (2015), The Field Guide to Data Science, 2nd Edition, Retrieved from [The Field Guide to Data Science book](https://www.boozallen.com/content/dam/boozallen_site/sig/pdf/publications/2015-field-guide-to-data-science.pdf)
+
 
 ## 2. Getting started with Python
 Data science has been described as intersection of programming, statistics and topical expertise. Python is an excellent programming tool for data analysis because it's friendly, pragmatic, mature and because it's complemented by excellent third party packages that were designed to deal with large amounts of data. through this session I will show you how to set up your analysis environment and provides a refresher on the basics of working with data containers in Python. Then he jumps into the big stuff: the power of arrays, indexing, and DataFrames in NumPy and Pandas so We will start this session by reviewing Python data containers which are useful on their own and which set the model for the more powerful data objects of NumPy and Pandas.
