@@ -47,7 +47,7 @@ Data science has been described as intersection of programming, statistics and t
      * [Using Arrays and scalars](https://github.com/Abdel-Razzak/DSF/blob/master/S2/iPython%20notes/Learning%20Numpy/2-Using%20arrays%20and%20scalars.ipynb)
      * [Indexing Arrays](https://github.com/Abdel-Razzak/DSF/blob/master/S2/iPython%20notes/Learning%20Numpy/3-Indexing%20Arrays.ipynb)
   * [Assignment 1: anagram challenge overview](https://github.com/Abdel-Razzak/DSF/blob/master/S2/iPython%20notes/Word%20Anagrams_Project%20Overview.ipynb)
-  * [Assignment 1: anagram solution](https://github.com/Abdel-Razzak/DSF/blob/master/S2/iPython%20notes/anagrams_end.ipynb##)
+  
   
   ### References
 * Jake VanderPlas, (2016), Python's Data Science Stack, eScience Institute, University of Washington, Retrieved from [Python_Data_Science_Stack](https://github.com/Abdel-Razzak/DSF/blob/master/S2/Python_Data_Science_Stack.pdf)
